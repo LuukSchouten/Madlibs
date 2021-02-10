@@ -1,0 +1,76 @@
+body{
+    background-color: #454441;
+    font-family: sans-serif;
+}
+
+.main{
+    position: relative;
+    background-color: red;
+    width: 800px;
+    height: 800px;
+    margin: 0 auto;
+}
+
+.logo{
+    font-size: 1.4em;
+    color: white;
+    background-color: #454441;
+    padding-left: 2em;
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
+.header{
+    height: 3em;
+    width: 100%;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+.links{
+    margin-left: 1em;
+    float: left;
+}
+
+#Onkunde{
+    margin-left: 3em;
+}
+
+.middle{
+    padding-top: 1em;
+    background-color: white;
+    height: 580px;
+}
+
+.wrapper{
+    margin-left: 1em;
+}
+
+.formdivs{
+    margin-top: 2em;
+}
+
+.inputstuff{
+    float: right;
+    margin-right: 4em;
+    width: 250px;
+}
+
+.submitdiv{
+    position:absolute;
+    right: 0;
+    margin-right: 23.3em;
+    margin-top: 1.3em;
+}
+
+
+.footer{
+    padding: 1px;
+    background-color: grey;
+    text-align: center;
+    font-weight: bold;
+}
+
